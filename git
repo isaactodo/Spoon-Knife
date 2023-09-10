@@ -1,0 +1,54 @@
+[33mcommit 8989ceb0eb689e6990e93b65123493f1218aad61[m[33m ([m[1;36mHEAD -> [m[1;32mSpoon-Kitchen-Knife[m[33m, [m[1;31morigin/Spoon-Kitchen-Knife[m[33m)[m
+Merge: fcfa7e1 b8a14d1
+Author: isaactodo <rhelos@icloud.com>
+Date:   Sun Sep 10 22:16:32 2023 +0800
+
+    Resolved conflict
+
+[33mcommit b8a14d11f03f72e7ca03b9cb039ea085fa6dde6a[m
+Author: isaactodo <144397769+isaactodo@users.noreply.github.com>
+Date:   Sun Sep 10 22:11:53 2023 +0800
+
+    Update README.md
+
+[33mcommit fcfa7e18594254b1665e66e6b09d7f7384b84772[m
+Author: isaactodo <rhelos@icloud.com>
+Date:   Sun Sep 10 22:08:43 2023 +0800
+
+    Conflict
+
+[33mcommit 0e45007d7d20cec63c72dc1f768976135ddcbc46[m
+Author: isaactodo <rhelos@icloud.com>
+Date:   Sun Sep 10 22:04:12 2023 +0800
+
+    anotha one
+
+[33mcommit 77aeb55f04d1159e39d24c696cffaa21e1f39ff6[m
+Author: isaactodo <144397769+isaactodo@users.noreply.github.com>
+Date:   Sun Sep 10 21:57:51 2023 +0800
+
+    added stuff
+
+[33mcommit 73c672dc61855c90f78ef7e792400f1f61a1c8d7[m
+Author: isaactodo <rhelos@icloud.com>
+Date:   Sun Sep 10 17:52:31 2023 +0800
+
+    Added one line of stuff
+
+[33mcommit d0dd1f61b33d64e29d8bc1372a94ef6a2fee76a9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: The Octocat <octocat@nowhere.com>
+Date:   Wed Feb 12 15:20:44 2014 -0800
+
+    Pointing to the guide for forking
+
+[33mcommit bb4cc8d3b2e14b3af5df699876dd4ff3acd00b7f[m
+Author: The Octocat <octocat@nowhere.com>
+Date:   Tue Feb 4 14:38:36 2014 -0800
+
+    Create styles.css and updated README
+
+[33mcommit a30c19e3f13765a3b48829788bc1cb8b4e95cee4[m
+Author: The Octocat <octocat@nowhere.com>
+Date:   Tue Feb 4 14:38:24 2014 -0800
+
+    Created index page for future collaborative edits
